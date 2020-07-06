@@ -3,6 +3,7 @@ body{
 	padding: 0;
 	font-family: sans-serif;
 	background:#cacafc;
+	
 }
 .abc{width:100%;
 	position: fixed;
@@ -177,7 +178,7 @@ ul li a .name span
 	-webkit-box-shadow: 0 3px 8px rgba(0,0,0,.25);
 }
 .post15{
-	top:150%;
+	top:152%;
 	left:27%;
 	position: absolute;
 	width:600px;
